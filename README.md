@@ -2,7 +2,7 @@
 
 # [EvecordJS](https://www.npmjs.com/package/evecordjs)
 
-![screenshot](https://cdn.discordapp.com/attachments/1276191968543772732/1289434269697048628/IMG_6041.png?ex=66f8cebe&is=66f77d3e&hm=35bc9d60a718fa7f745caad3b2c124bb08ab44303be332121ed37552007be123&)
+![image](https://cdn.discordapp.com/attachments/1276191968543772732/1289434269697048628/IMG_6041.png?ex=66f8cebe&is=66f77d3e&hm=35bc9d60a718fa7f745caad3b2c124bb08ab44303be332121ed37552007be123&)
 
 EvecordJS is a JavaScript library that allows you to create Discord bots easily. With this library, even beginners can develop Discord bots with minimal effort.
 
