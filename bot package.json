@@ -1,0 +1,20 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "A simple Express app with evecordjs bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "evecordjs": "^1.0.6",
+    "express": "^4.17.1",
+    "dotenv": "^16.0.0",
+    "axios": "^0.21.1",
+    "undici": "^4.16.0",
+    "web-streams-polyfill": "^3.2.1"
+  },
+  "engines": {
+    "node": "16.14.2"
+  }
+}
