@@ -1,0 +1,32 @@
+{
+  "name": "evecordjs",
+  "version": "1.0.6",
+  "description": "A simple Discord.js wrapper library for creating reaction-based bots.",
+  "main": "index.js",
+  "bin": {
+    "evecordjs": "index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.0.0"
+  },
+  "engines": {
+    "node": ">=16.14.2"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "reaction",
+    "library"
+  ],
+  "author": "emon2358",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "devDependencies": {}
+}
