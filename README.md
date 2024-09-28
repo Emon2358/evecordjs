@@ -1,3 +1,7 @@
+<!-- 
+<meta property="og:image" content="https://raw.githubusercontent.com/emon2358/evecordjs/main/logo.png" />
+-->
+
 <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic"><img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic">
 
 # [EvecordJS](https://www.npmjs.com/package/evecordjs)
