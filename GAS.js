@@ -1,5 +1,9 @@
-function keepGlitchAlive() {
-  const url = 'https://your-glitch-project.glitch.me';  // GlitchプロジェクトのURLに置き換えてください
-  const response = UrlFetchApp.fetch(url);
-  Logger.log(response.getContentText());
+var GLITCH_URL = "";
+function wakeGlitch(){
+ var params = {
+   'contentType' : 'application/json; charset=utf-8',
+   'method' : 'post',
+   'muteHttpExceptions': true
+ };
+ response = UrlFetchApp.fetch(GLITCH_URL, params);
 }
